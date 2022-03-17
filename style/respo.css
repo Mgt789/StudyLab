@@ -1,0 +1,13 @@
+/* @media only screen and (max-width: 600px) { */
+@media only screen and (max-width: 991.98px) {
+    header{
+
+      height: auto;
+    }
+    .no-display-image{
+      display: none!important;
+    }
+    .slider{
+      position: relative;
+    }
+}
